@@ -1,0 +1,25 @@
+,Legs,Cold or Warm Blooded,Covering,Aquatic,Aerial,Lays Eggs,Category
+Tree Frog,4,cold,none,partial,no,yes,amphibian
+Cane Toad,4,cold,none,no,no,yes,amphibian
+Ball Python,0,cold,scales,no,no,yes,reptile
+Dove,2,warm,feathers,no,yes,yes,bird
+Human,2,warm,hair,no,no,no,mammal
+Lion,4,warm,fur,no,no,no,mammal
+Chihuaha,4,warm,fur,no,no,no,mammal
+Crow,2,warm,feathers,no,yes,yes,bird
+Monitor Lizard,4,cold,none,no,no,yes,reptile
+Veiled Chameleon,4,cold,scales,no,no,yes,reptile
+Humpback Whale,0,warm,hair,yes,no,no,mammal
+Eastern Newt,4,cold,none,partial,no,yes,amphibian
+Falcon,2,warm,feathers,no,yes,yes,bird
+Bat,2,warm,hair,no,yes,no,mammal
+Barn Owl,2,warm,feathers,no,yes,yes,bird
+Blue Tongued Skink,4,cold,scales,no,no,yes,reptile
+Sea Turtle,4,cold,scales,yes,no,yes,reptile
+Red back Salamander,4,cold,none,partial,no,yes,amphibian
+Penguin,2,warm,feathers,partial,no,yes,bird
+Parrot,2,warm,feathers,no,yes,yes,bird
+Rabbit,4,warm,fur,no,no,no,mammal
+Gorilla,2,warm,hair,no,no,no,mammal
+Tasmanian Devil,4,warm,fur,no,no,no,mammal
+Green Anaconda,0,cold,scales,yes,no,yes,reptile
